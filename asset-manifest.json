@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cruzrovira/medical-appointments/static/css/main.498efe77.chunk.css",
-    "main.js": "/cruzrovira/medical-appointments/static/js/main.78950fac.chunk.js",
-    "main.js.map": "/cruzrovira/medical-appointments/static/js/main.78950fac.chunk.js.map",
-    "runtime-main.js": "/cruzrovira/medical-appointments/static/js/runtime-main.26164a61.js",
-    "runtime-main.js.map": "/cruzrovira/medical-appointments/static/js/runtime-main.26164a61.js.map",
-    "static/js/2.c8a8b2bb.chunk.js": "/cruzrovira/medical-appointments/static/js/2.c8a8b2bb.chunk.js",
-    "static/js/2.c8a8b2bb.chunk.js.map": "/cruzrovira/medical-appointments/static/js/2.c8a8b2bb.chunk.js.map",
-    "index.html": "/cruzrovira/medical-appointments/index.html",
-    "precache-manifest.2c12ce636e0b4e463118acde2e666b58.js": "/cruzrovira/medical-appointments/precache-manifest.2c12ce636e0b4e463118acde2e666b58.js",
-    "service-worker.js": "/cruzrovira/medical-appointments/service-worker.js",
-    "static/css/main.498efe77.chunk.css.map": "/cruzrovira/medical-appointments/static/css/main.498efe77.chunk.css.map",
-    "static/js/2.c8a8b2bb.chunk.js.LICENSE.txt": "/cruzrovira/medical-appointments/static/js/2.c8a8b2bb.chunk.js.LICENSE.txt"
+    "main.css": "/medical-appointments/static/css/main.498efe77.chunk.css",
+    "main.js": "/medical-appointments/static/js/main.fe155b7e.chunk.js",
+    "main.js.map": "/medical-appointments/static/js/main.fe155b7e.chunk.js.map",
+    "runtime-main.js": "/medical-appointments/static/js/runtime-main.f41cfe18.js",
+    "runtime-main.js.map": "/medical-appointments/static/js/runtime-main.f41cfe18.js.map",
+    "static/js/2.d74e9e85.chunk.js": "/medical-appointments/static/js/2.d74e9e85.chunk.js",
+    "static/js/2.d74e9e85.chunk.js.map": "/medical-appointments/static/js/2.d74e9e85.chunk.js.map",
+    "index.html": "/medical-appointments/index.html",
+    "precache-manifest.e576677c523db0d9ef65939ad3e8301a.js": "/medical-appointments/precache-manifest.e576677c523db0d9ef65939ad3e8301a.js",
+    "service-worker.js": "/medical-appointments/service-worker.js",
+    "static/css/main.498efe77.chunk.css.map": "/medical-appointments/static/css/main.498efe77.chunk.css.map",
+    "static/js/2.d74e9e85.chunk.js.LICENSE.txt": "/medical-appointments/static/js/2.d74e9e85.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.26164a61.js",
-    "static/js/2.c8a8b2bb.chunk.js",
+    "static/js/runtime-main.f41cfe18.js",
+    "static/js/2.d74e9e85.chunk.js",
     "static/css/main.498efe77.chunk.css",
-    "static/js/main.78950fac.chunk.js"
+    "static/js/main.fe155b7e.chunk.js"
   ]
 }
