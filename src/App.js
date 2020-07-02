@@ -15,11 +15,19 @@ const AppStyled = styled.div`
     max-width: 1024px;
     width: 80%;
     margin: auto;
-    display: flex;
-    justify-content: space-between;
   }
   .item {
-    width: 49%;
+    margin-bottom: 10px;
+  }
+  @media screen and (min-width: 700px) {
+    .container {
+      display: flex;
+      justify-content: space-between;
+    }
+    .item {
+      width: 49%;
+      margin-bottom: none;
+    }
   }
 `;
 function App() {
